@@ -2,5 +2,5 @@
 gTTS==2.1.1
 gTTS-token==1.1.3
 markovify==0.8.0
-opencv-python==4.2.0.32
+opencv-python==4.5.4.60
 python-telegram-bot==12.4.2
