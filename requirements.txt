@@ -1,5 +1,4 @@
 ffmpeg
-libxext6
 gTTS
 gTTS-token
 markovify
