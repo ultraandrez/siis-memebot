@@ -1,6 +1,6 @@
+libgl1
 gTTS
 gTTS-token
 markovify
 opencv-python
 python-telegram-bot
-opencv-python-headless
