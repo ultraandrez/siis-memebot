@@ -1,4 +1,4 @@
-libgl1
+libgl1-mesa-glx
 gTTS
 gTTS-token
 markovify
