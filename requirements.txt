@@ -1,6 +1,9 @@
-libgl1-mesa-glx
+ffmpeg
+libsm6
+libxext6
 gTTS
 gTTS-token
 markovify
 opencv-python
 python-telegram-bot
+opencv-python-headless
